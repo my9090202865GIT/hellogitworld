@@ -6,7 +6,7 @@ import junit.framework.TestSuite;
 
 //Pending comments
 
-//Some comments on the master branch
+//Some comments on the master branch xwxwxxwxwxxwttete
 //Added some comments on the branch for the egit demo
 
 /**
